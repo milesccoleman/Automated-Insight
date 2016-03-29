@@ -1,3 +1,5 @@
+philsophy api http://dp.la/info/developers/codex/policies/philosophy/
+
 Metaphor-a-Minute!
 ==========
 
